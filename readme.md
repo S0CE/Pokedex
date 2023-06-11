@@ -29,7 +29,7 @@ Dans un terminal, accéder au dossier de la partie backend et éxecuter la comma
 
 Dans un terminal à part, accéder au dossier de la partie frontend et éxecuter la commande `npm start`, ou depuis la base du projet éxécuter `cd frontend && npm start`.
 
-
+**Une fois cela fait, rendez-vous sur l'adresse "http://localhost:3000"**  
 
 # API utilisée
 Utilisation de l'[API Pokémon](https://pokeapi.co/docs/v2)

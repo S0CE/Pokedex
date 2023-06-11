@@ -1,0 +1,11 @@
+.Nature-title {
+    font-size: 20px;
+    margin-left: 20px;
+    justify-content: left;
+    display: flex;
+}
+
+.Natures {
+    list-style: none;
+    font-size: 20px;
+}

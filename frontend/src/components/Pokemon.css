@@ -1,0 +1,30 @@
+.Pokemon {
+    margin-top: 50px;
+    justify-content: center;
+    display: flex
+}
+
+.Pokemon-sheet {
+    margin-top: 60px;
+}
+
+.Pokemon-identity {
+    margin-bottom: 10px;
+    font-size:  20px;
+    justify-content: center;
+    display: flex;
+}
+
+.Pokemon-identity>* {
+    margin: 10px;
+}
+
+.Pokemon-natures {
+    font-weight: bolder;
+    display: flex;
+}
+
+.Pokemon-image {
+    margin: 4px;
+    min-width: 300px;
+}
